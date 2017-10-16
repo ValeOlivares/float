@@ -1,0 +1,18 @@
+.contenedor{
+  background-color: #ff8f84;
+  border: 4px, solid black;
+  overflow: hidden;
+}
+li{
+  float: left;
+  height: 100px;
+  margin: 20px;
+}
+.img1{
+  float: left;
+  margin-right: 1em;
+}
+.img2{
+  float: right;
+  margin-left: 1em;
+}
